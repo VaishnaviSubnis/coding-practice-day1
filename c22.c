@@ -18,4 +18,3 @@ printf("The number b=%d is greater than a=%d",b,a);
 return 0;
 
 }
-
